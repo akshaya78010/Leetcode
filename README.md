@@ -13,4 +13,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akshaya78010/Leetcode/tree/master/0007-reverse-integer) |
+| [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
+## String
+|  |
+| ------- |
+| [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
 <!---LeetCode Topics End-->
