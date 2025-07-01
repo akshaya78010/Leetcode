@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/akshaya78010/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
 | ------- |
