@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshaya78010/Leetcode/tree/master/0070-climbing-stairs) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
