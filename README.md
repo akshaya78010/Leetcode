@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshaya78010/Leetcode/tree/master/0036-valid-sudoku) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Sliding Window
 |  |
 | ------- |
