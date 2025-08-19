@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/akshaya78010/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
 | [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshaya78010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
