@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshaya78010/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/akshaya78010/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
