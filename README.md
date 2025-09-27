@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/akshaya78010/Leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/akshaya78010/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akshaya78010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akshaya78010/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/akshaya78010/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/akshaya78010/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Geometry
 |  |
