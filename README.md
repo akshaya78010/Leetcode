@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akshaya78010/Leetcode/tree/master/0036-valid-sudoku) |
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
+| [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaya78010/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/akshaya78010/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/akshaya78010/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
+| [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/akshaya78010/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/akshaya78010/Leetcode/tree/master/1642-water-bottles) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/akshaya78010/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/akshaya78010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akshaya78010/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
 | [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
+| [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
