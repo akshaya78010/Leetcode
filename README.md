@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshaya78010/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akshaya78010/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
