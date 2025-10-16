@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akshaya78010/Leetcode/tree/master/0036-valid-sudoku) |
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaya78010/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/akshaya78010/Leetcode/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
