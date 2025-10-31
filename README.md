@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshaya78010/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshaya78010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akshaya78010/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshaya78010/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshaya78010/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshaya78010/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshaya78010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshaya78010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/akshaya78010/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshaya78010/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshaya78010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshaya78010/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
