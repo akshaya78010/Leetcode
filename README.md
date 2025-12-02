@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akshaya78010/Leetcode/tree/master/0043-multiply-strings) |
+| [1603-design-parking-system](https://github.com/akshaya78010/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/akshaya78010/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/akshaya78010/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/akshaya78010/Leetcode/tree/master/1603-design-parking-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshaya78010/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/akshaya78010/Leetcode/tree/master/1603-design-parking-system) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
