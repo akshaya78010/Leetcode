@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/akshaya78010/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/akshaya78010/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshaya78010/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshaya78010/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshaya78010/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/akshaya78010/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshaya78010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshaya78010/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
