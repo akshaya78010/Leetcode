@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshaya78010/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/akshaya78010/Leetcode/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/akshaya78010/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/akshaya78010/Leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/akshaya78010/Leetcode/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/akshaya78010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/akshaya78010/Leetcode/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/akshaya78010/Leetcode/tree/master/1603-design-parking-system) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshaya78010/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/akshaya78010/Leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/akshaya78010/Leetcode/tree/master/0289-game-of-life) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
