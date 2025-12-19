@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0735-asteroid-collision](https://github.com/akshaya78010/Leetcode/tree/master/0735-asteroid-collision) |
 | [1470-shuffle-the-array](https://github.com/akshaya78010/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshaya78010/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akshaya78010/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/akshaya78010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/akshaya78010/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/akshaya78010/Leetcode/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/akshaya78010/Leetcode/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/akshaya78010/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/akshaya78010/Leetcode/tree/master/1642-water-bottles) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaya78010/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/akshaya78010/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
