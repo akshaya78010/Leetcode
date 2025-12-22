@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshaya78010/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akshaya78010/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akshaya78010/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/akshaya78010/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/akshaya78010/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshaya78010/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaya78010/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akshaya78010/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
