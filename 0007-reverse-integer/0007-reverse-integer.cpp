@@ -10,6 +10,7 @@ public:
            res = res * 10+r;
            x = x/10;
         }
+        //this is for checking 
         cout<<res<<'\n';
         if(res > 2147483647 || res < -2147483647)
         {
