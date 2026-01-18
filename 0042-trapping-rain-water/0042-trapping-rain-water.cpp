@@ -19,6 +19,7 @@ public:
 
             res += min(lmax,rmax[i]) - height[i];
         }
+//final answer
 
         return res;
     }
