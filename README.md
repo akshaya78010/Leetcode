@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshaya78010/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshaya78010/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshaya78010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akshaya78010/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshaya78010/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/akshaya78010/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshaya78010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshaya78010/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshaya78010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshaya78010/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshaya78010/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/akshaya78010/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -263,10 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/akshaya78010/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/akshaya78010/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/akshaya78010/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/akshaya78010/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
