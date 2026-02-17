@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/akshaya78010/Leetcode/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/akshaya78010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshaya78010/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akshaya78010/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshaya78010/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshaya78010/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya78010/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaya78010/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/akshaya78010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshaya78010/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshaya78010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
