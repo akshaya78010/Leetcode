@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
 | [1260-day-of-the-year](https://github.com/akshaya78010/Leetcode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akshaya78010/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akshaya78010/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/akshaya78010/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshaya78010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/akshaya78010/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
