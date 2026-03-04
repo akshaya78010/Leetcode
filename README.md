@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/akshaya78010/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akshaya78010/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshaya78010/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/akshaya78010/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/akshaya78010/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshaya78010/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
+| [1051-height-checker](https://github.com/akshaya78010/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/akshaya78010/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshaya78010/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/akshaya78010/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
