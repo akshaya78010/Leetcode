@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/akshaya78010/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/akshaya78010/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/akshaya78010/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshaya78010/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akshaya78010/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshaya78010/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1980-find-unique-binary-string](https://github.com/akshaya78010/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshaya78010/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akshaya78010/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akshaya78010/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/akshaya78010/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshaya78010/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshaya78010/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/akshaya78010/Leetcode/tree/master/0077-combinations) |
+| [1980-find-unique-binary-string](https://github.com/akshaya78010/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
