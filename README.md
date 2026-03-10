@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akshaya78010/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshaya78010/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3862-find-the-smallest-balanced-index](https://github.com/akshaya78010/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akshaya78010/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/akshaya78010/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3862-find-the-smallest-balanced-index](https://github.com/akshaya78010/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Stack
 |  |
 | ------- |
