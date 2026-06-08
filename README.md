@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akshaya78010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akshaya78010/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/akshaya78010/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/akshaya78010/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshaya78010/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/akshaya78010/Leetcode/tree/master/0409-longest-palindrome) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/akshaya78010/Leetcode/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/akshaya78010/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/akshaya78010/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/akshaya78010/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/akshaya78010/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/akshaya78010/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/akshaya78010/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
