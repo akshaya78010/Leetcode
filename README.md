@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshaya78010/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0392-is-subsequence) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akshaya78010/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshaya78010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akshaya78010/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshaya78010/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/akshaya78010/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshaya78010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
