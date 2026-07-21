@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/akshaya78010/Leetcode/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/akshaya78010/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/akshaya78010/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/akshaya78010/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/akshaya78010/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/akshaya78010/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/akshaya78010/Leetcode/tree/master/0705-design-hashset) |
 | [0807-custom-sort-string](https://github.com/akshaya78010/Leetcode/tree/master/0807-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshaya78010/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akshaya78010/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/akshaya78010/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/akshaya78010/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/akshaya78010/Leetcode/tree/master/0148-sort-list) |
+| [0705-design-hashset](https://github.com/akshaya78010/Leetcode/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshaya78010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/akshaya78010/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshaya78010/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akshaya78010/Leetcode/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/akshaya78010/Leetcode/tree/master/1603-design-parking-system) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Backtracking
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akshaya78010/Leetcode/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshaya78010/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Counting Sort
 |  |
