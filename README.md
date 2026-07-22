@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akshaya78010/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/akshaya78010/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshaya78010/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/akshaya78010/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/akshaya78010/Leetcode/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshaya78010/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/akshaya78010/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akshaya78010/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya78010/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaya78010/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akshaya78010/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akshaya78010/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0392-is-subsequence) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akshaya78010/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
