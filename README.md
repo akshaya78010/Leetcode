@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshaya78010/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshaya78010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/akshaya78010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akshaya78010/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akshaya78010/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/akshaya78010/Leetcode/tree/master/0031-next-permutation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshaya78010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshaya78010/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/akshaya78010/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/akshaya78010/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshaya78010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/akshaya78010/Leetcode/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/akshaya78010/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshaya78010/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
