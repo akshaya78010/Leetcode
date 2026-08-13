@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/akshaya78010/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/akshaya78010/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/akshaya78010/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/akshaya78010/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/akshaya78010/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/akshaya78010/Leetcode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/akshaya78010/Leetcode/tree/master/0733-flood-fill) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya78010/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshaya78010/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/akshaya78010/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/akshaya78010/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaya78010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshaya78010/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshaya78010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
