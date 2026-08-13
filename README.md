@@ -505,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akshaya78010/Leetcode/tree/master/0881-boats-to-save-people) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akshaya78010/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
