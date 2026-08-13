@@ -14,7 +14,7 @@ public:
                 low = mid + 1;
             }
             else if(nums[mid] > target){
-                high = high - 1;
+                high = mid - 1;
             }
         }
         return -1;
