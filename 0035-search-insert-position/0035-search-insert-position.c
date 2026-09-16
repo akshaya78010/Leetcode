@@ -1,12 +1,22 @@
 int searchInsert(int* arr, int n, int target) {
-    int index;
-    for(int i = 0 ;i < n ; i++)
-    {
-        if(arr[i] == target || arr[i] > target)
-        {
-            index = i;
-            break;
+    
+    int low = 0;
+    int high = n-1;
+
+    int mid = 0;
+    int res = n;
+
+    while(low <= high){
+        mid = low + (high - low)/2;
+
+        if(arr[mid] >= target){
+            res = mid;
+            high = high - 1;
+        }
+        else{
+            low = low + 1;
         }
     }
-    return index;
+
+    return res;
 }
