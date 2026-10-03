@@ -19,9 +19,9 @@ public:
             mid = low + (high - low)/2;
             // cout<<low<<" "<<mid<<" "<<high<<'\n';
             mini = min(mini,nums[low]);
-            if(nums[low] <= nums[mid] && nums[mid] <= nums[high]){
-                mini = min(mini,nums[low]);
-            }
+            // if(nums[low] <= nums[mid] && nums[mid] <= nums[high]){
+            //     mini = min(mini,nums[low]);
+            // }
 
             if(nums[low] <= nums[mid]){
                 low = mid + 1;
