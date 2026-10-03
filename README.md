@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/akshaya78010/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/akshaya78010/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshaya78010/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshaya78010/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshaya78010/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshaya78010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/akshaya78010/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akshaya78010/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaya78010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshaya78010/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshaya78010/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshaya78010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshaya78010/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Number Theory
