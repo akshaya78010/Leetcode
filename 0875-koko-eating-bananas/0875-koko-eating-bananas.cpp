@@ -1,26 +1,24 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
+        
+        long long int low = 1;
+        long long int high = *max_element(piles.begin(),piles.end());
 
-        sort(piles.begin(),piles.end());
-        long long low = 1;
-        long long high = piles[piles.size()-1];
-        long long mid;
-        long long res;
-        long long mini = LONG_MAX;
+        long long int mid;
+        long long int time = 0;
+        long long int mini = INT_MAX;
+
         while(low <= high){
-            mid = (low + (high - low)/2);
+            mid = low + (high - low)/2;
 
-            long long sumi = 0;
-            
-            for(int i =0; i < piles.size() ; i++){
-                // cout<<ceil(piles[i]*1.0/mid*1.0)<<" : "<<mid<<'\n';
-                sumi += ceil(piles[i]*1.0/mid*1.0);
+            time = 0;
+            for(int i = 0; i < piles.size() ; i++){
+                time += ceil(piles[i] * 1.0/mid * 1.0);
             }
-            
-            // cout<<mid<<" "<<sumi<<'\n';
-            if(sumi <= h){
-                mini = min(mini,mid);
+
+            if(time <= h){
+                mini = min(mid,mini);
                 high = mid - 1;
             }
             else{
