@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshaya78010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akshaya78010/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshaya78010/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akshaya78010/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3797-design-spreadsheet](https://github.com/akshaya78010/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3862-find-the-smallest-balanced-index](https://github.com/akshaya78010/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Two Pointers
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/akshaya78010/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akshaya78010/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshaya78010/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akshaya78010/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshaya78010/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akshaya78010/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akshaya78010/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akshaya78010/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
