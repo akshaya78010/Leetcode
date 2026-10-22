@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/akshaya78010/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshaya78010/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akshaya78010/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/akshaya78010/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/akshaya78010/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akshaya78010/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshaya78010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -493,12 +495,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/akshaya78010/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshaya78010/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/akshaya78010/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshaya78010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
