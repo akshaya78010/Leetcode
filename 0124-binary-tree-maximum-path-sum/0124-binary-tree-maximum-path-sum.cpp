@@ -14,14 +14,12 @@ public:
     int find_dia_sum(TreeNode *root , int &maxi){
         if(root == NULL) return 0;
 
-        int left = find_dia_sum(root->left,maxi);
-        int right = find_dia_sum(root->right , maxi);
+        int left = max(find_dia_sum(root->left,maxi) ,0);
+        int right = max(find_dia_sum(root->right , maxi),0);
 
-        int val_to_add = root->val + max(0,left) + max(0,right);
+        maxi = max(maxi, root->val + left + right);
 
-        maxi = max(maxi, val_to_add);
-
-       return root->val + max({0,left,right});
+       return root->val + max(left,right);
     }
     int maxPathSum(TreeNode* root) {
         
