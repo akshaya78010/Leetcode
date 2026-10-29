@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshaya78010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/akshaya78010/Leetcode/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/akshaya78010/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/akshaya78010/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akshaya78010/Leetcode/tree/master/0695-max-area-of-island) |
@@ -486,12 +487,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshaya78010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/akshaya78010/Leetcode/tree/master/0101-symmetric-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/akshaya78010/Leetcode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/akshaya78010/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akshaya78010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshaya78010/Leetcode/tree/master/0733-flood-fill) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshaya78010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/akshaya78010/Leetcode/tree/master/0101-symmetric-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/akshaya78010/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
