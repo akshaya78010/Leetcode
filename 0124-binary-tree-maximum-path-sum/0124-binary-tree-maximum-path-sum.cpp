@@ -25,7 +25,7 @@ public:
         
         int maxi = root->val;
 
-        int res = find_dia_sum(root,maxi);
+        find_dia_sum(root,maxi);
 
         return maxi;
     }
